@@ -1,0 +1,25 @@
+header{
+  background-color: darkcyan;
+}
+body{
+  background-color: aqua;
+}
+h1{
+  text-align: center;
+}
+.column {
+  float: left;
+  width: 300px;
+}
+.img{
+  
+  border: darkturquoise solid 1px;
+  margin: auto;
+  padding: 250px;
+}
+.homep{
+  float: right;
+  width: 300px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
